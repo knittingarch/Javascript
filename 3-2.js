@@ -1,4 +1,4 @@
-// A program to calculate the cost per square inch of a circular pizza
+// A program to calculate the cost per square inch of a circular pizza rounded to two decimal places
 // by Sarah Dawson
 
 function pizzaCost() {

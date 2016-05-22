@@ -1,4 +1,4 @@
-// This is a script to search for a string within a string
+// This is a script to search for a string within a string.
 // by Sarah Dawson
 
 var text = "Sarah is a really common \

@@ -3,6 +3,7 @@
 
 
 function sphere() {
+	alert("This program will caluclate the volume and surface area of a sphere with your help!");
 	var radius = prompt("Please enter the radius of your circle:", "");
 	var volume = 4 / 3 * Math.PI * Math.pow(radius, 3);
 	var area = 4 * Math.PI * Math.pow(radius, 2);
