@@ -2,7 +2,7 @@
 // by Sarah Dawson
 
 function pizzaCost() {
-	// alert("This program calculates the cost per square inch of a circular pizza.");
+	alert("This program calculates the cost per square inch of a circular pizza.");
 	var diameter = prompt("Please enter the pizza's diameter in inches: ", "");
 	var price = prompt("Please enter the total cost of the pizza (using decimals): ", "");
 	var radius = diameter / 2;
