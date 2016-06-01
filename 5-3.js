@@ -29,25 +29,25 @@ var examScore = function() {
 
 
 // ORIGINAL Python Code
-// def main():
-
-// 	print 'This program will convert your numerical grade into a letter grade. \n'
-
-// 	grade = eval(raw_input('Please enter your grade here: '))
-// 	numbers = []
-
-// 	for i in range(101):
-// 		numbers.append(i)
-
-// 	if grade >= numbers[90]:
-// 		print 'You earned an A.'
-// 	elif numbers[80] < grade < numbers[90]:
-// 		print 'You earned an B.'
-// 	elif numbers[70] < grade < numbers[80]:
-// 		print 'You earned an C.'
-// 	elif numbers[60] < grade < numbers[70]:
-// 		print 'You earned an D.'
-// 	else:
-// 		print 'You earned an F.'
-
-// main()
+//def main():
+//
+//	print 'This program will convert your numerical grade into a letter grade. \n'
+//
+//	grade = eval(raw_input('Please enter your grade here: '))
+//	numbers = []
+//
+//	for i in range(101):
+//		numbers.append(i)
+//
+//	if grade >= numbers[90]:
+//		print 'You earned an A.'
+//	elif grade >= numbers[80]:
+//		print 'You earned an B.'
+//	elif grade >= numbers[70]:
+//		print 'You earned an C.'
+//	elif grade >= numbers[60]:
+//		print 'You earned an D.'
+//	else:
+//		print 'You earned an F.'
+//
+//main()
