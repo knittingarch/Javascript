@@ -1,4 +1,5 @@
-Script to 
+// Script to hand out torpedo to specific passaengers using closures and for loops
+// by Sarah Dawson
 
 
 function assignTorpedo (name, passengerArray ) {
